@@ -72,3 +72,12 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ## Support 💖
 If you find this project useful, consider giving it a ⭐ on GitHub!
+
+## About This Project
+This project is free to use. Feel free to explore the code and use it in your own projects!
+
+This bot was quickly made for my own Discord channel so I could play my local music files directly from a folder. It’s a simple solution that works for my needs, but it’s **not fully polished or feature-complete**. For example:
+- It lacks proper **previous/next song** functionality.
+- It has some **minimal issues**, but they don’t bother me for my personal use.
+
+I won’t be developing this bot further, but feel free to edit the code and improve it as you like! I just wanted to bring something **VERY EASY** to the table so people can enjoy a quick and simple way to play local music in their Discord servers.
